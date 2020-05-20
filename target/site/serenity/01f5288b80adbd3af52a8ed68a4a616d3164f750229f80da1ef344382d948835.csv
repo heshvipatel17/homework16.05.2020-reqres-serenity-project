@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Req res curd test","This test will create a new user","SUCCESS","2020-05-20T18:38:25.551+01:00[Europe/London]","0.0","11.04"
+"Req res curd test","This test will Verify an existing user of the application","SUCCESS","2020-05-20T18:38:36.658+01:00[Europe/London]","0.0","0.25"
+"Req res curd test","This test will Update a user","SUCCESS","2020-05-20T18:38:36.908+01:00[Europe/London]","0.0","0.2"
+"Req res curd test","This test will Delete a user","SUCCESS","2020-05-20T18:38:37.111+01:00[Europe/London]","0.0","0.14"

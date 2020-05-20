@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.req.res.testsuite.ReqResCurdTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.758 sec - in com.req.res.testsuite.ReqResCurdTest
